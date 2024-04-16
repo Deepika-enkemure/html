@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>my project</title>
+</head>
+<body>
+<h1><b>World Wide Web</b></h1>
+<p>The WorldWideWeb (W3) is a wide-area <u>hypermedia</u> information retrieval initiative aiming to give universal access to a large universe of documents.</p>
+<p>Everything there is online about W3 is linked directly or indirectly to this document, including an <u>executive summary</u> of the project,<u> Mailing lists , Policy</u> , November's <u>W3 news , Frequently Asked Questions.</u></p>
+
+<h2><u>What's out there?</u><h2>
+<p>Pointers to the world's online information,<u> subjects , W3 servers</u>, etc.<br/>
+<u>Help</u>
+on the browser you are using
+<u>Software Products</u>
+A list of W3 project components and their current state. (e.g.<u> Line Mode</u> ,X11 Viola , NeXTStep , Servers , Tools , Mail robot , Library )
+<u>Technical</u>
+Details of protocols, formatss, program internals etc
+<u>Bibliography</u>
+Paper documentation on W3 and references.
+<u>People</u>
+A list of some people involved in the project.
+<u>History</u>
+A summary of the history of the project.
+How can I help ?
+If you would like to support the web..
+<u>Getting code</u>
+Getting the code by<u> anonymous FTP</u> , etc.</p>
+</body>
+</html>
